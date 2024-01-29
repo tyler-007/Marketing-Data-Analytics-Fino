@@ -1,0 +1,211 @@
+SI number,Product,Campaign Owner,Platform,Date,Campaign Name,Target Audience,Sent,Engaged (Notification Viewed),Rate,Status,Business Impact
+1,Shopkeepers Policy,Shriya ,CT (Mitra),"Nov 30, 10:40 AM",VR:Shopkeeper_Policy,,"28,974",4,0.01,Completed,
+2,FinoPay,Shriya ,CT (Mitra),"Nov 23, 2:00 PM",AB1:Upi _Txn,,"2,441,265",121,0%,Completed,
+3,Become a Merchant,Shriya ,CT (Mitra),"Nov 21, 6:00 PM",AB1:Become_a_Merchant_No_Cif_Have_Token,,"1,244,607","1,017",0.08,Completed,
+4,Shopkeepers Policy,Shriya ,CT (Mitra),"Nov 21, 12:37 PM",VR:Shopkeeper_Policy,,"28,836",16,0.06,Completed,
+5,Suvidha Account,Shriya ,CT (Mitra),"Nov 21, 12:00 AM",HM:suvidha_Merchant_notifcation__Nov'23 (21st to 30th alternate days,,"302,571",154,0.05,Awaiting Next Run,
+6,Pradhan Mantri Jeevan Jyoti Bima Yojana,Shriya ,CT (Mitra),"Nov 20, 1:09 PM",VR:PMJJBY,,"576,933",312,0.05,Completed,
+7,Go Digit Health,Shriya ,CT (Mitra),"Nov 20, 10:52 AM",VR:GoDigit Health,,"28,845",5,0.02,Completed,
+8,FinoPay,Ajay,CT (Mitra),"Nov 17, 2:00 PM",Revision_in_UPI_Transaction_Limit_40K,,"804,129","1,176",0.15,Completed,
+9,Suvidha Account,Shriya ,CT (Mitra),"Nov 15, 12:00 AM",HM:suvidha_Merchant_notifcation__Nov'23 (15th to 20 Nov onces in a day),,"303,917",164,0.05,Completed,
+10,Kisaan Samman Nidhi Yojana ,Ajay,CT (Mitra),"Nov 14, 8:00 PM",kisan_samman_nidhi_yojana_push_notification,,"600,168",10,0%,Completed,
+11,Suvidha Account,Ajay,CT (Mitra),"Nov 6, 2:00 PM",HM:suvidha_Merchant_notifcation__Nov'23 (6th to 15 Nov Daily),,"50,660",69,0.14,Completed,
+12,Go Digit Health,Shriya,CT (FinoPay),"Nov 29, 8:00 PM",Digit_Health_Plus_C5_29112023,,266,1,0.38,Completed,
+13,Go Digit Health,Shriya,CT (FinoPay),"Nov 29, 8:00 PM",Digit_Health_Plus_C6_291123,,11,0,0%,Completed,
+14,Go Digit Health,Shriya,CT (FinoPay),"Nov 29, 8:00 PM",Digit_Health_Plus_C7_291123,,14,2,14.29,Completed,
+15,FinoPay,Shriya,CT (FinoPay),"Nov 23, 12:55 PM",AB1:UPI txn,,"1,336,500","16,853",1.26,Completed,
+16,Krazybee,Shriya,CT (FinoPay),"Nov 22, 11:00 AM",PL:Krazybee,,"2,628,049","26,506",1.01,Completed,
+17,FinoPay,Shriya,CT (FinoPay),"Nov 17, 4:21 PM",Step-5_digiSA_2nd Push_revised_21022023,,"78,244","1,960",2.5,Completed,
+18,FinoPay,Shriya,CT (FinoPay),"Nov 9, 12:00 PM",Step-5_digiSA_2nd Push_revised_21022023,,"4,140",143,3.45,Completed,
+19,FinoPay,Shriya,CT (FinoPay),"Nov 8, 6:00 PM",Step-1 DigiSA_2nd Push,,"652,464","8,551",1.31,Completed,
+20,FinoPay,Shriya,CT (FinoPay),"Nov 8, 6:00 PM",Step-2_DigiSA__2nd Push,,"87,646","1,116",1.27,Completed,
+21,FinoPay,Shriya,CT (FinoPay),"Nov 8, 6:00 PM",step 3 DigiSA__2nd Push,,"51,920",391,0.75,Completed,
+22,FinoPay,Shriya,CT (FinoPay),"Nov 8, 6:00 PM",Step-4_digiSA_2nd Push_revised_21022023,,"8,046",69,0.86,Completed,
+23,FinoPay,Shriya,CT (FinoPay),"Nov 8, 4:55 PM",Step-5_digiSA_2nd Push_revised_21022023,,"3,412",100,2.93,Completed,
+1,CASA Cashback Offer,Shriya,CT (Fino Mitra),"Dec 1, 5:45 PM",RS:CASA_Cashback_Offer,Merchant,"43,250",0,0%,Running,
+2,Do Pe Tees,Shriya,CT (Fino Mitra),"Dec 1, 5:52 PM",RS:Do_Pe_Tees,Merchant,"604,445",0,0%,Running,
+3,MATM AMC,Shriya,CT (Fino Mitra),"Dec 1, 6:03 PM",RS:MATM_AMC,Merchant,"411,457",0,0%,Running,
+4,AePS Winback,Shriya,CT (Fino Mitra),"Dec 2, 10:00 AM",RS:AePS_Winback,Merchant,"47,277",0,0%,Running,
+5,Shubh Savings Account Offer,Shriya,CT (Fino Mitra),"Dec 2, 5:46 PM",RS:Shubh_Savings_AC_Offer,Merchant,"472,265",0,0%,Running,
+6,Gold Loan,Shriya,CT (FinoPay),"Dec 5, 6:00 PM",PL: Gold Loan,Customers,"30,127",479,1.59,Awaiting Next Run,
+7,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 6, 6:00 PM",PMJJBY_Mobile launch tease,Merchant,"1,364,657","1,631",0.12,Completed,
+8,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 7, 3:41 PM",VR:Shopkeepers_Policy_C10,Merchant,508,1,0.2,Completed,
+9,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 7, 3:44 PM",VR:Shopkeepers_Policy_C11,Merchant,"1,269",3,0.24,Completed,
+10,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 7, 3:47 PM",VR:Shopkeepers_Policy_C12,Merchant,"29,759",8,0.03,Completed,
+11,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 8, 2:49 PM",VR:PMJJBY,Merchant,"263,403",180,0.07,Completed,
+12,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 11, 1:09 PM",VR:Fuel_Spends_C16,Customers,366,5,1.37,Completed,
+13,Balance Buildup MAB,Shriya,CT (FinoPay),"Dec 11, 3:25 PM",AM:Balance_Buildup,Customers,"6,399,027","235,418",3.68,Awaiting Next Run,
+14,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 11, 6:24 PM",VR:GoDigit_Health_C4,Merchant,"29,778",4,0.01,Completed,
+15,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 11, 6:35 PM",VR:GoDigit_Health_C5,Merchant,"29,776",4,0.01,Completed,
+16,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 11, 6:56 PM",VR:PMJJBY,Merchant,"225,500",90,0.04,Completed,
+17,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 12, 3:24 PM",VR:Fuel_Spends_C16,Customers,369,3,0.81,Completed,
+18,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 12, 3:32 PM",VR:PMJJBY,Merchant,"223,726",147,0.07,Completed,
+19,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 12, 3:33 PM",VR:GoDigit_Health_C4,Merchant,"29,755",7,0.02,Completed,
+20,Vehicle EMI (Insurance),Shriya,CT (Fino Mitra),"Dec 12, 3:52 PM",VR: Vehicle EMI,Merchant,"4,620",0,0%,Completed,
+21,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 13, 10:57 AM",VR:Fuel_Spends_C16,Customers,368,3,0.82,Completed,
+22,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 13, 11:11 AM",VR:GoDigit_Health_C4,Merchant,"29,823",10,0.03,Completed,
+23,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 13, 11:11 AM",VR:PMJJBY,Merchant,"226,498",132,0.06,Completed,
+24,Vehicle EMI (Insurance),Shriya,CT (Fino Mitra),"Dec 13, 11:12 AM",VR: Vehicle EMI,Merchant,"4,639",0,0%,Completed,
+25,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 13, 11:19 AM",VR:GoDigit_Health_C5,Merchant,577,0,0%,Completed,
+26,UPI Txn,Shruti Tripathi,CT (FinoPay),"Dec 13, 3:07 PM",SB:Pilot_Upi_Txn,Customers,7,2,28.57,Running,
+27,Master Device,Shriya,CT (Fino Mitra),"Dec 14, 1:49 PM",TM:Master_Device,Merchant,"347,266",0,0%,Running,
+28,Master Device,Shriya,CT (Fino Mitra),"Dec 14, 2:00 PM",TM:Master_Device,Merchant,"2,275,598",575,0.03,Awaiting Next Run,
+29,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 14, 5:50 PM",VR:Shopkeepers_Policy_C11,Merchant,"1,283",1,0.08,Completed,
+30,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 14, 5:53 PM",VR:Shopkeepers_Policy_C12,Merchant,"29,812",12,0.04,Completed,
+31,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 14, 5:57 PM",VR:Shopkeepers_Policy_C10,Merchant,514,0,0%,Completed,
+32,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 14, 6:00 PM",VR:PMJJBY_C20,Merchant,"221,364",156,0.07,Completed,
+33,Balance Buildup Debit Card,Shriya,CT (FinoPay),"Dec 15, 11:17 AM",AM:Balance_Buildup_Debit_Card,Customers,"2,284",0,0%,Running,
+34,Balance Buildup MAB,Shriya,CT (FinoPay),"Dec 15, 11:18 AM",AM:Balance_Buildup_MAB,Customers,968,0,0%,Running,
+35,Motor Insurance (Insurance),Shriya,CT (FinoPay),"Dec 15, 1:01 PM",SB:Motor_Insurance,Customers,"1,252,116",0,0%,Running,
+36,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 15, 3:03 PM",VR:Fuel_Spends_C16,Customers,373,9,2.41,Completed,
+37,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 15, 3:09 PM",VR:Shopkeepers_Policy_C10,Merchant,516,2,0.39,Completed,
+38,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 15, 3:10 PM",VR:Shopkeepers_Policy_C12,Merchant,"29,789",11,0.04,Completed,
+39,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 15, 3:10 PM",VR:Shopkeepers_Policy_C11,Merchant,"1,280",0,0%,Completed,
+40,Rekyc through VKYC,Shriya,CT (FinoPay),"Dec 15, 6:00 PM",AM:Rekyc_through_VKYC,Customers,"3,255,894","24,846",0.76,Awaiting Next Run,
+41,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 16, 12:00 AM",VR:Shopkeepers_Policy_C10,Merchant,508,0,0%,Completed,
+42,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 16, 12:00 AM",VR:Shopkeepers_Policy_C11,Merchant,"1,273",0,0%,Completed,
+43,Shopkeepers Policy (Insurance),Shriya,CT (Fino Mitra),"Dec 16, 12:00 AM",VR:Shopkeepers_Policy_C12,Merchant,"29,708",4,0.01,Completed,
+44,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 16, 12:03 PM",VR:Fuel_Spends_C16,Customers,374,1,0.27,Completed,
+45,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 16, 12:19 PM",VR:PMJJBY_C20,Merchant,"226,090",168,0.07,Completed,
+46,PA with Shubh (Insurance),Shriya,CT (Fino Mitra),"Dec 18, 12:01 PM",VR:PA_with_Shubh_C1,Merchant,"66,915",50,0.07,Completed,
+47,PA with Shubh (Insurance),Shriya,CT (Fino Mitra),"Dec 18, 12:03 PM",VR:PA_with_Shubh_C2,Merchant,444,0,0%,Completed,
+48,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 18, 1:03 PM",VR:POS_C17,Merchant,"4,988",0,0%,Completed,
+49,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 18, 1:05 PM",VR:POS_C18,Merchant,281,0,0%,Completed,
+50,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 18, 1:07 PM",VR:POS_C19,Merchant,"14,970",11,0.07,Completed,
+51,Bhavishya Renwal,Shriya,CT (FinoPay),"Dec 18, 4:00 PM",AM:Bhavishya_Renewal,Customers,"28,884",7,0.02,Awaiting Next Run,
+52,Bhavishya Newly Onboarded,Shriya,CT (FinoPay),"Dec 18, 4:00 PM",AM:Bhavishya_Newly_Onboarded,Customers,"57,324",104,0.18,Awaiting Next Run,
+53,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 19, 12:14 PM",VR:POS_C17,Merchant,"4,991",1,0.02,Completed,
+54,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 19, 12:15 PM",VR:POS_C19,Merchant,"14,961",3,0.02,Completed,
+55,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 19, 12:15 PM",VR:POS_C18,Merchant,282,0,0%,Completed,
+56,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 19, 12:16 PM",VR:PMJJBY_C20,Merchant,"226,031",141,0.06,Completed,
+57,Krazybee,Shriya,CT (FinoPay),"Dec 19, 4:00 PM",PL:Krazybee,Customers,"5,795,726","52,219",0.9,Awaiting Next Run,
+58,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 20, 3:35 PM",VR:POS_C17,Merchant,"4,989",4,0.08,Completed,
+59,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 20, 3:37 PM",VR:POS_C18,Merchant,280,0,0%,Completed,
+60,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 20, 3:38 PM",VR:PMJJBY_C20,Merchant,"226,022",155,0.07,Completed,
+61,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 20, 3:38 PM",VR:POS_C19,Merchant,"14,968",15,0.1,Completed,
+62,FinoPay OTT,Shriya,CT (FinoPay),"Dec 21, 12:00 PM",Step-1 DigiSA_2nd Push,Customers,"238,388","3,125",1.31,Awaiting Next Run,
+63,PA with Shubh (Insurance),Shriya,CT (Fino Mitra),"Dec 21, 12:01 PM",VR:PA_with_Shubh_C2,Merchant,445,0,0%,Completed,
+64,PA with Shubh (Insurance),Shriya,CT (Fino Mitra),"Dec 21, 12:01 PM",VR:PA_with_Shubh_C1,Merchant,"66,980",42,0.06,Completed,
+65,Motor Insurance (Insurance),Shriya,CT (FinoPay),"Dec 21, 12:05 PM",VR:_C15,Customers,97,0,0%,Completed,
+66,FinoPay OTT,Shriya,CT (FinoPay),"Dec 21, 2:00 PM",Step-2_DigiSA__2nd Push,Customers,"22,152",327,1.48,Awaiting Next Run,
+67,FinoPay OTT,Shriya,CT (FinoPay),"Dec 21, 4:00 PM",step 3 DigiSA__2nd Push,Customers,"10,755",56,0.52,Awaiting Next Run,
+68,FinoPay OTT,Shriya,CT (FinoPay),"Dec 21, 6:00 PM",Step-4_digiSA_2nd Push_revised_21022023,Customers,"1,773",16,0.9,Awaiting Next Run,
+69,FinoPay OTT,Shriya,CT (FinoPay),"Dec 21, 8:04 PM",Step-5_digiSA_2nd Push_revised_21022023,Customers,"23,719",148,0.62,Awaiting Next Run,
+70,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 22, 3:10 PM",VR:GoDigit_Health_C4,Merchant,"29,754",10,0.03,Completed,
+71,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 22, 5:17 PM",VR:GoDigit_Health_C5,Merchant,583,1,0.17,Completed,
+72,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 22, 5:20 PM",VR:POS_C17,Merchant,"4,993",2,0.04,Completed,
+73,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 22, 5:23 PM",VR:POS_C18,Merchant,284,0,0%,Completed,
+74,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 22, 6:48 PM",VR:POS_C19,Merchant,"13,230",10,0.08,Completed,
+75,Connect CC to UPI,Sachin Belose,CT (FinoPay),"Dec 23, 10:30 AM",CC on fino pay,Customers,"803,838","19,248",2.39,Completed,
+76,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 23, 3:10 PM",VR:GoDigit_Health_C5,Merchant,583,0,0%,Completed,
+77,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 23, 3:10 PM",VR:GoDigit_Health_C4,Merchant,"29,751",6,0.02,Completed,
+78,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 23, 3:12 PM",VR:POS_C18,Merchant,286,0,0%,Completed,
+79,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 23, 3:12 PM",VR:POS_C17,Merchant,"5,007",3,0.06,Completed,
+80,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 23, 3:13 PM",VR:POS_C19,Merchant,"14,988",8,0.05,Completed,
+81,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 26, 5:04 PM",VR:POS_C17,Merchant,"5,008",2,0.04,Completed,
+82,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 26, 5:05 PM",VR:POS_C18,Merchant,284,1,0.35,Completed,
+83,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 26, 5:06 PM",VR:POS_C19,Merchant,"14,975",8,0.05,Completed,
+84,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 26, 5:07 PM",VR:PMJJBY_C20,Merchant,"226,098",154,0.07,Completed,
+85,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 27, 11:25 AM",VR:POS_C17,Merchant,"5,001",2,0.04,Completed,
+86,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 27, 11:26 AM",VR:POS_C18,Merchant,282,0,0%,Completed,
+87,PMJJBY (Insurance),Shriya,CT (Fino Mitra),"Dec 27, 11:27 AM",VR:PMJJBY_C20,Merchant,"226,137",108,0.05,Completed,
+88,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 27, 11:27 AM",VR:POS_C19,Merchant,"14,979",7,0.05,Completed,
+89,AePS MaTM ,Shriya,CT (Fino Mitra),"Dec 27, 6:02 PM",Central_Sales_Team:AePS/mATM_Transaction,Merchant,"888,653",698,0.08,Completed,
+90,PA with Shubh (Insurance),Shriya,CT (Fino Mitra),"Dec 28, 1:00 PM",VR:PA_with_Shubh_C2,Merchant,453,0,0%,Completed,
+91,PA with Shubh (Insurance),Shriya,CT (Fino Mitra),"Dec 28, 1:00 PM",VR:PA_with_Shubh_C1,Merchant,"67,043",41,0.06,Completed,
+92,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 29, 10:03 AM",VR:GoDigit_Health_C4,Merchant,"29,705",10,0.03,Completed,
+93,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 29, 10:03 AM",VR:GoDigit_Health_C5,Merchant,586,1,0.17,Completed,
+94,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 29, 10:03 AM",VR:POS_C17,Merchant,"4,999",1,0.02,Completed,
+95,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 29, 10:03 AM",VR:POS_C18,Merchant,283,0,0%,Completed,
+96,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 29, 10:03 AM",VR:POS_C19,Merchant,"14,973",12,0.08,Completed,
+97,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 30, 10:03 AM",VR:GoDigit_Health_C4,Merchant,"29,694",12,0.04,Completed,
+98,Go Digit Health (Insurance),Shriya,CT (Fino Mitra),"Dec 30, 10:03 AM",VR:GoDigit_Health_C5,Merchant,585,1,0.17,Completed,
+99,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 30, 10:03 AM",VR:POS_C17,Merchant,"4,991",3,0.06,Completed,
+100,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 30, 10:03 AM",VR:POS_C18,Merchant,280,0,0%,Completed,
+101,POS (Insurance),Shriya,CT (Fino Mitra),"Dec 30, 10:03 AM",VR:POS_C19,Merchant,"14,946",12,0.08,Completed,
+102,VKYC initiation nudge,Shriya,CT (FinoPay),"Dec 26, 2:16 PM",AB1:VKYC_Initiation,Customers,616,94,15.26,Running,
+103,App Install Nudge,Shriya,CT (FinoPay),"Dec 26, 2:52 PM",AB1: App_Install,Customers,"69,640","2,806",4.03,Running,
+104,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 26, 4:53 PM",VR:Fuel_Spends_C16,Customers,400,1,0.25,Completed,
+105,VKYC Completing nudge,Shriya,CT (FinoPay),"Dec 26, 5:02 PM",AB1:VKYC_Completed,Customers,179,72,40.22,Running,
+106,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 27, 11:13 AM",VR:Fuel_Spends_C16,Customers,404,5,1.24,Completed,
+107,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 28, 2:40 PM",VR:Fuel_Spends_C16,Customers,404,4,0.99,Completed,
+108,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 29, 10:09 AM",VR:Fuel_Spends_C16,Customers,402,5,1.24,Completed,
+109,Fuel Spends (Insurance),Shriya,CT (FinoPay),"Dec 30, 10:09 AM",VR:Fuel_Spends_C16,Customers,406,0,0%,Completed,
+1,Motor Insurance*FinoPay,Shriya,CT (FinoPay),"Jan 24, 2:36 PM","SB/VR:Motor Insurance_FinoPay_Collab
+
+",All FinoPay Users,"1,004,919","23,874",2.38,Awaiting Next Run,
+2,Birthday Wishes,Shriya,CT (FinoPay),"Jan 24, 12:45 PM","AB1:Birthday_Wishes
+
+SM
+ ID: 1706080545 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"2,855",335,11.73,Running,
+3,Fuel Spends,Shriya,CT (FinoPay),"Jan 24, 10:00 AM","VR:Fuel_Spends_C19
+
+SM
+ ID: 1706010611 
+Created by: shriya.singh@finobank.com",C19,"2,823",30,1.06,Completed,
+4,Bhavishya*Braingym,Shriya,CT (FinoPay),"Jan 23, 12:00 PM","AM:Bhavishya_Newly_Onboarded
+
+SM
+ ID: 1705990863 
+Created by: shriya.singh@finobank.com",Newly Onboarded Customers,"22,881",71,0.31,Awaiting Next Run,
+5,Bhavishya*Braingym,Shriya,CT (FinoPay),"Jan 23, 12:00 PM","AM:Bhavishya_Renewal
+
+SM
+ ID: 1705990933 
+Created by: shriya.singh@finobank.com",Renewal Customers,"6,007",9,0.15,Awaiting Next Run,
+6,Krazybee,Shriya,CT (FinoPay),"Jan 18, 12:12 PM","PL:KrazyBee
+
+SM
+ ID: 1705560150 
+Created by: shriya.singh@finobank.com",Loan customers,"976,905","32,183",3.29,Completed,
+7,Mattu Pongal Wishes,Shriya,CT (FinoPay),"Jan 17, 10:00 AM","AB1:Mattu_Pongal_Wishes
+
+SM
+ ID: 1705062798 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"1,935",79,4.08,Completed,
+8,Fuel Spends,Shriya,CT (FinoPay),"Jan 16, 4:35 PM","VR:Fuel_Spends_C19
+
+SM
+ ID: 1705403118 
+Created by: shriya.singh@finobank.com",C19,"2,743",36,1.31,Completed,
+9,Surya Pongal Wishes,Shriya,CT (FinoPay),"Jan 16, 10:00 AM","AB1:Surya_Pongal_Wishes
+
+SM
+ ID: 1705062538 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"1,896",79,4.17,Completed,
+10,Magh Bihu Wishes,Shriya,CT (FinoPay),"Jan 16, 10:00 AM","AB1:Magh_Bihu_Wishes
+
+SM
+ ID: 1705311928 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"5,346",226,4.23,Completed,
+11,Lohri Wishes,Shriya,CT (FinoPay),"Jan 15, 10:09 AM","AB1:Lohri_Wishes
+
+SM
+ ID: 1705057114 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"118,998","6,335",5.32,Completed,
+12,Makar Sankranti Wishes,Shriya,CT (FinoPay),"Jan 15, 10:00 AM","AB1:Makar_Sankranti_Wishes
+
+SM
+ ID: 1705053031 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"962,149","61,593",6.4,Completed,
+13,Pongal Wishes,Shriya,CT (FinoPay),"Jan 15, 10:00 AM","AB1:Pongal_Wishes
+
+SM
+ ID: 1705060838 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"1,836",51,2.78,Completed,
+14,Bhogi Pongal Wishes,Shriya,CT (FinoPay),"Jan 15, 10:00 AM","AB1:Bhogi_Pongal_Wishes
+
+SM
+ ID: 1705061440 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"1,836",51,2.78,Completed,
+15,FinoPay (dropoff retention),Shriya,CT (FinoPay),"Jan 2, 3:30 PM","SB:Daily_reminder_dropoff_DigiSa-1day
+
+mv
+ ID: 1704189119 
+Created by: shriya.singh@finobank.com",Dropoffs,"23,297",213,0.91,Awaiting Next Run,
+16,New Year Wishes,Shriya,CT (FinoPay),"Jan 1, 12:00 AM","AB1:New_Year_2024_Notification
+
+SM
+ ID: 1703595792 
+Created by: shriya.singh@finobank.com",All FinoPay Users,"878,594","5,232",0.6,Completed,
