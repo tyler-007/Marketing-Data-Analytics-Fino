@@ -1,0 +1,14 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python scripts
+*.py
+
+# Ignore specific notebooks
+DashBoard for competitiors/model.ipynb
+project 6/model.ipynb
+project 6/model2.ipynb
+project 5/model.ipynb
+
+# Ignore environment files
+*.env
